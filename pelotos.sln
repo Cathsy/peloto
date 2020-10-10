@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pelotos", "Assembly-CSharp.csproj", "{8778C04E-A74B-DC4C-AE21-BE7750D71381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8778C04E-A74B-DC4C-AE21-BE7750D71381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8778C04E-A74B-DC4C-AE21-BE7750D71381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8778C04E-A74B-DC4C-AE21-BE7750D71381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8778C04E-A74B-DC4C-AE21-BE7750D71381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
